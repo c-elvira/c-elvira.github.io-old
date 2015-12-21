@@ -13,5 +13,5 @@ image:
 # Submitted/pipelined journal papers
 
 1. C. Elvira, P. Chainais and N. Dobigeon, "Bayesian anti-sparse coding", submitted, 2015. [BIBTEX](../bibtex/Elvira_2015sub.bib) <br/>
-Preprint available on arXiv:[![arXiv](../images/arxiv_icon.png)](../pdf/Elvira_2015sub.pdf) <br/>
+Preprint available on arXiv:[![arXiv](../images/arxiv_icon.png)](http://arxiv.org/abs/1512.06086) <br/>
 Associated technical report: (soon)
