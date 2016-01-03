@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Homepage of Clement Elvira."
+tags: [Clement Elvira, Cristal, sigma, signal processing]
 image:
   feature: sample-image-1.jpg
   credit: WeGraphics
