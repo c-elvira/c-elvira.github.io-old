@@ -38,7 +38,7 @@ Well detection using physical measures and machine learning techniques <br/>
 ### Skills
 
 #### Languages
-- French : ative
+- French : native
 - English : fluent
 - Notions in spanish
 
