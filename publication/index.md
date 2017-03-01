@@ -10,8 +10,17 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-# Submitted/pipelined journal papers
+## Submitted/pipelined journal papers
 
-1. C. Elvira, P. Chainais and N. Dobigeon, "Bayesian anti-sparse coding", submitted, 2015. [bibtex](../bibtex/Elvira_2015sub.md) <br/>
-Preprint available on arXiv:[![arXiv](../images/logo/arxiv_icon.png)](http://arxiv.org/abs/1512.06086) <br/>
-Associated technical report: [pdf](../pdf/Elvira_TechReport_2015.pdf) [bibtex](../bibtex/Elvira_TechReport_2015.md) <br/>
+
+## Journal article
+
+1. C. Elvira, P. Chainais and N. Dobigeon, "Bayesian anti-sparse coding", IEEE Trans. Signal Processing, vol. 65, no. 7, pp. 1660--1672, April 2017 <br/>
+[pdf](../pdf/elvira2017_TSP.pdf),    [bibtex](../bibtex/elvira2017_TSP.md),    [Supplementary material](../pdf/elvira2017_TSP_supp_mat.pdf) <br/>
+(Old) Preprint available on arXiv:[![arXiv](../images/logo/arxiv_icon.png)](http://arxiv.org/abs/1512.06086) <br/>
+
+## Conference
+
+1. C. Elvira, P. Chainais, et N. Dobigeon, "Bayesian nonparametric subspace estimation," in Proc. IEEE Int. Conf. Acoust., Speech, and Signal Processing (ICASSP), New Orleans, USA, March 2017 (soon) [bibtex](../bibtex/Elvira_IEEE_ICASSP_2017.md) <br/>
+
+2. C. Elvira, P. Chainais, et N. Dobigeon, "Democratic prior for anti-sparse coding," in Proc. IEEE Workshop on Statistical Signal Processing (SSP), Palma de Mallorca, Spain, June 2016. [pdf](../pdf/elvira2016ssp.pdf),  [bibtex](../bibtex/elvira2016ssp.md) <br/>

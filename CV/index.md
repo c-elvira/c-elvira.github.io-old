@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum vitae
-tags: [about, Jekyll, theme, responsive]
+tags: [CV Clément Elvira]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
