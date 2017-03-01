@@ -3,9 +3,9 @@ layout: home
 excerpt: "Homepage of Clement Elvira."
 tags: [Clement Elvira, Cristal, sigma, signal processing]
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: lille_flikr.jpg
+  credit: Sunny Christmas athmosphere in Lille, by photophilde, CC BY SA
+  creditlink:  https://www.flickr.com/photos/photophilde/
 ---
 <br/>
 <center>
