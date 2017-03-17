@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Curriculum vitae [pdf version](../pdf/cv.pdf)
+title: Curriculum vitae 
 tags: [CV Clément Elvira]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
+
+A [pdf version](../pdf/cv.pdf) is also available [here](../pdf/cv.pdf).
 
 ### Academic background
 
