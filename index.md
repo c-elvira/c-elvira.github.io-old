@@ -11,7 +11,6 @@ image:
 <center>
     <b>
         <font size="5">
-            I'm currently looking for a postdoc
         </font>
     </b>
 </center>
