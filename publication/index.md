@@ -8,7 +8,7 @@ comments: true
 
 ## Submitted/pipelined journal papers
 
-1. C. Elvira, P. Chainais and N. Dobigeon, "Towards a Bayesian nonparametric PCA", <br/>
+1. C. Elvira, P. Chainais and N. Dobigeon, "Towards a Bayesian nonparametric PCA" <br/>
 
 ## Journal article
 
