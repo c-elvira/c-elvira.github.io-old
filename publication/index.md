@@ -10,7 +10,7 @@ comments: true
 
 1. C. Elvira, P. Chainais and N. Dobigeon, "Towards a Bayesian nonparametric PCA" <br/>
 
-## Journal article
+## International journal papers
 
 1. C. Elvira, P. Chainais and N. Dobigeon, "Bayesian anti-sparse coding", <br/>
 *IEEE Trans. Signal Processing, vol. 65, no. 7, pp. 1660--1672, April 2017* <br/>
