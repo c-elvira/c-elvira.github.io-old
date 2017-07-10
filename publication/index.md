@@ -17,7 +17,7 @@ comments: true
 [pdf](../pdf/elvira2017_TSP.pdf),    [bibtex](../bibtex/elvira2017_TSP.md),    [Supplementary material](../pdf/elvira2017_TSP_supp_mat.pdf),     [doi](https://doi.org/10.1109/TSP.2016.2645543)<br/>
 (Old) Preprint available on arXiv:[![arXiv](../images/logo/arxiv_icon.png)](http://arxiv.org/abs/1512.06086), [bibtex](../bibtex/elvira2017_iccasp.md) <br/>
 
-## International conference
+## International conference papers
 
 1. C. Elvira, P. Chainais, et N. Dobigeon, "Bayesian nonparametric subspace estimation," <br/>
 *in Proc. IEEE Int. Conf. Acoust., Speech, and Signal Processing (ICASSP), New Orleans, USA, March 2017* <br/>
