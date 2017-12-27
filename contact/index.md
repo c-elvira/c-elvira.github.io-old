@@ -18,8 +18,8 @@ comments: true
 	  function initialize() {
 		var mapCanvas = document.getElementById('map');
 		var mapOptions = {
-			center: new google.maps.LatLng(50.606602, 3.137084),
-			zoom: 11,
+			center: new google.maps.LatLng(48.116626, -1.639216),
+			zoom: 16,
 			mapTypeId: google.maps.MapTypeId.ROADMAP
 		}
 		var map = new google.maps.Map(mapCanvas, mapOptions)
@@ -28,10 +28,10 @@ comments: true
 	</script>
 </head>
 
-My email is firstname.lastname@ec-lille.fr.
+My email is firstname.lastname@inria.fr.
 
 <br/>
-My office is at École Centrale de Lille, office C316. You'll need to ask reception to call me.
+My office is at Inria Rennes, office 317. You'll need to ask reception to call me.
 
 <br/>
 
@@ -39,10 +39,10 @@ My office is at École Centrale de Lille, office C316. You'll need to ask recept
 <article>
 	<div style="float:left">
 		Snail mail should go to:<br><br>
-		&Eacute;cole Centrale de Lille<br>
-		Cit&eacute; Scientifique - CS 20048<br>
-		59651 Villeneuve d'Ascq Cedex<br>
-		France
+		Clément Elvira - PANAMA Research Group<br>
+		Univ Rennes, Inria, CNRS,  IRISA <br>
+		Campus de Beaulieu, 35042 Rennes cedex <br>
+		France<br>
 	</div>
 	<div id="map" style="float:right"></div>
 </article>
