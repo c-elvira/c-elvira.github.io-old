@@ -35,7 +35,7 @@ Note: Student Paper Constest Finalist
 *in Actes du XXVIième Colloque GRETSI, Sept. 2017* <br/>
 [pdf](../pdf/elvira2017gretsi.pdf), [bibtex](../bibtex/elvira2017gretsi.md) <br/>
 
-## Theses
+## Thesis
 
 1. C. Elvira, "Modèles bayésiens pour l’identification de représentations antiparcimonieuses et l’analyse en composantes principales non paramétrique", PhD. Thesis, Centrale Lille, novembre 2017, in French <br>
 [pdf](../pdf/elvira2017manuscritthese.pdf), [slides](../pdf/elvira2017slidesthese.pdf), [bibtex](../bibtex/elvira2017phdthesis.md) <br>

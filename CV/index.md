@@ -10,7 +10,7 @@ A [pdf version](../pdf/cv.pdf) is also available [here](../pdf/cv.pdf).
 
 ### Positions
 
-- **2017 - now :** **Post-doctoral research associate** <br/>
+- **2017 - now :** **Post-doctoral researcher** <br/>
 PANAMA Research Group <br/>
 *Inria Rennes Bretagne Atlantique (France)* <br/>
 
