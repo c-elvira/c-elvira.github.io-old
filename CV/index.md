@@ -8,9 +8,22 @@ comments: true
 
 A [pdf version](../pdf/cv.pdf) is also available [here](../pdf/cv.pdf).
 
+### Positions
+
+- **2017 - now :** **Post-doctoral research associate** <br/>
+PANAMA Research Group <br/>
+*Inria Rennes Bretagne Atlantique (France)* <br/>
+
+- **2014 - 2017 :** **Research assistant** <br/>
+Cristal, Sigma Research Group <br/>
+*Ecole Centrale de Lille (France)* <br/>
+
+- **2015 - 2017 :** **Assistant lecturer** <br/>
+*Ecole Centrale de Lille (France)* <br/>
+
 ### Academic background
 
-- **2014 - Now :** **Ph.D. in "Signal, Image, Acoustics"** <br/>
+- **2014 - 2017 :** **Ph.D. in "Signal, Image, Acoustics"** <br/>
 *Ecole Centrale de Lille (France)* <br/>
 *INP - ENSEEIHT Toulouse (France)*
 
