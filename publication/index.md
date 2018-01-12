@@ -22,7 +22,7 @@ arXiv preprint : [![arXiv](../images/logo/arxiv_icon.png)](https://arxiv.org/abs
 
 1. C. Elvira, P. Chainais, et N. Dobigeon, "Bayesian nonparametric subspace estimation," <br/>
 *in Proc. IEEE Int. Conf. Acoust., Speech, and Signal Processing (ICASSP), New Orleans, USA, March 2017* <br/>
-[pdf](../pdf/elvira2017iccasp.pdf), [slide](../pdf/elvira_2017_icassp_slide.pdf), [poster](../pdf/elvira_2017_icassp_poster.pdf), [bibtex](../bibtex/elvira2017_iccasp.md), [doi](https://doi.org/10.1109/ICASSP.2017.7952556) <br/>
+[pdf](../pdf/elvira2017iccasp.pdf), [bibtex](../bibtex/elvira2017_iccasp.md), [doi](https://doi.org/10.1109/ICASSP.2017.7952556) <br/>
 Note: Student Paper Constest Finalist
 
 2. C. Elvira, P. Chainais, et N. Dobigeon, "Democratic prior for anti-sparse coding,"<br/>
