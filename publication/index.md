@@ -21,8 +21,8 @@ arXiv preprint : [![arXiv](../images/logo/arxiv_icon.png)](https://arxiv.org/abs
 ## International conference papers
 
 1. C. Elvira, HP Dang abd P. Chainais, “Small Variance Asymptotics and Bayesian Nonparametrics for Dictionary Learning,”
-European Signal Processing Conference, 2018, Roma, Italy, June 2018
-[pdf](http://www.hongphuong-dang.com/DATA/2018_EUSIPCO.pdf) [codes](https://github.com/c-elvira/IBPDL-SVA)
+European Signal Processing Conference (eusipco), 2018, Roma, Italy, June 2018
+[pdf](http://www.hongphuong-dang.com/DATA/2018_EUSIPCO.pdf), [codes](https://github.com/c-elvira/IBPDL-SVA)
 
 2. C. Elvira, P. Chainais, et N. Dobigeon, "Bayesian nonparametric subspace estimation," <br/>
 *in Proc. IEEE Int. Conf. Acoust., Speech, and Signal Processing (ICASSP), New Orleans, USA, March 2017* <br/>
