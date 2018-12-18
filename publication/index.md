@@ -38,7 +38,10 @@ Note: Student Paper Contest Finalist
 
 ## National conference papers
 
-1. C. Elvira, P. Chainais, et N. Dobigeon, "Une formulation bayésienne du codage antiparcimonieux" <br/>
+1. HP Dang, C. Elvira, P. Chainais, "Vers une méthode d'optimisation non paramétrique pour l'apprentissage de dictionnaire en utilisant Small-Variance Asymptotics pour modèle probabiliste", CAP 2018, Rouen, France. \\
+[pdf](http://www.hongphuong-dang.com/DATA/2018_2CAP.pdf) [codes](https://github.com/c-elvira/bayesian_antisparse_algorithm)
+
+2. C. Elvira, P. Chainais, et N. Dobigeon, "Une formulation bayésienne du codage antiparcimonieux" <br/>
 *in Actes du XXVIième Colloque GRETSI, Sept. 2017* <br/>
 [pdf](../pdf/elvira2017gretsi.pdf), [bibtex](../bibtex/elvira2017gretsi.md), [codes](https://github.com/c-elvira/bayesian_antisparse_algorithm) <br/>
 
