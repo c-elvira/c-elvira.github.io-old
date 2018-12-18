@@ -20,16 +20,19 @@ arXiv preprint : [![arXiv](../images/logo/arxiv_icon.png)](https://arxiv.org/abs
 
 ## International conference papers
 
-1. C. Elvira, HP Dang abd P. Chainais, “Small Variance Asymptotics and Bayesian Nonparametrics for Dictionary Learning,”
-European Signal Processing Conference (eusipco), 2018, Roma, Italy, June 2018
-[pdf](http://www.hongphuong-dang.com/DATA/2018_EUSIPCO.pdf), [codes](https://github.com/c-elvira/IBPDL-SVA)
+1. C. Elvira, R. Gribonval, C. Herzet, C. Soussen, "A case of exact recovery with OMP for gridless sparse spike deconvolution", Curves and Surfaces, juin 2018, Arcachon, France. \\
+[abstract](https://hal.inria.fr/view/index/?identifiant=hal-01937532&lang=fr)
 
-2. C. Elvira, P. Chainais, et N. Dobigeon, "Bayesian nonparametric subspace estimation," <br/>
+2. C. Elvira, HP Dang abd P. Chainais, “Small Variance Asymptotics and Bayesian Nonparametrics for Dictionary Learning,”
+European Signal Processing Conference (eusipco), 2018, Roma, Italy, June 2018
+[pdf](http://www.hongphuong-dang.com/DATA/2018_EUSIPCO.pdf), [codes](https://github.com/c-elvira/IBPDL-SVA) [doi](https://doi.org/10.23919/EUSIPCO.2018.8553142)
+
+3. C. Elvira, P. Chainais, et N. Dobigeon, "Bayesian nonparametric subspace estimation," <br/>
 *in Proc. IEEE Int. Conf. Acoust., Speech, and Signal Processing (ICASSP), New Orleans, USA, March 2017* <br/>
 [pdf](../pdf/elvira2017iccasp.pdf), [bibtex](../bibtex/elvira2017_iccasp.md), [doi](https://doi.org/10.1109/ICASSP.2017.7952556) <br/>
 Note: Student Paper Contest Finalist
 
-3. C. Elvira, P. Chainais, et N. Dobigeon, "Democratic prior for anti-sparse coding,"<br/>
+4. C. Elvira, P. Chainais, et N. Dobigeon, "Democratic prior for anti-sparse coding,"<br/>
 *in Proc. IEEE Workshop on Statistical Signal Processing (SSP), Palma de Mallorca, Spain, June 2016.*<br/>
 [pdf](../pdf/elvira2016ssp.pdf), [bibtex](../bibtex/elvira2016ssp.md),  [doi](https://doi.org/10.1109/SSP.2016.7551813), [codes](https://github.com/c-elvira/bayesian_antisparse_algorithm)
 
