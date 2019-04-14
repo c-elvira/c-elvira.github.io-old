@@ -73,6 +73,9 @@
   {% if entry.pdf %}
     [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>]
   {% endif %}
+  {% if entry.hal %}
+    [<a href="{{ entry.hal }}" target="_blank">HAL</a>]
+  {% endif %}
   {% if entry.supp %}
     [<a href="{{ entry.supp | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Supp</a>]
   {% endif %}
@@ -84,6 +87,9 @@
   {% endif %}
   {% if entry.code %}
     [<a href="{{ entry.code }}" target="_blank">Code</a>]
+  {% endif %}
+  {% if entry.graph %}
+    [<a href="{{ entry.graph }}" target="_blank">Graph Theorem</a>]
   {% endif %}
   </span>
 
