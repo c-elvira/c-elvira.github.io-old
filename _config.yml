@@ -33,8 +33,9 @@ google_analytics: UA- # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: c-elvira's webpage
-blog_description: Personal webpage of Clément Elvira
+blog_name:
+blog_description:
+enable: false
 
 # Pagination
 paginate: 4
