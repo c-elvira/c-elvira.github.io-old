@@ -1,1 +1,0 @@
-Sitemap: http://c-elvira.github.io/_site/sitemap.xml

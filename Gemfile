@@ -1,5 +1,10 @@
-source "https://rubygems.org"
-
-gem 'jekyll', '2.5.3'
-gem 'jekyll-sitemap'
-gem 'octopress', '~> 3.0'
+source 'https://rubygems.org'
+group :jekyll_plugins do
+    gem 'github-pages'
+    gem 'jekyll'
+    gem 'jekyll-email-protect'
+    gem 'jekyll-paginate'
+    gem 'jekyll-scholar'
+    gem 'jemoji'
+    gem 'unicode_utils'
+end
