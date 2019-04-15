@@ -9,3 +9,5 @@ _site
 codekit-config.json
 node_modules
 _asset_bundler_cache
+
+readme_clement.txt
