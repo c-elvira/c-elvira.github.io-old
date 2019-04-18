@@ -18,6 +18,7 @@
   KEYWORDS = {Index Terms-Sparse representation ; exact recovery ; orthogonal matching pursuit ; continuous dictionaries ; sparse representation ; continuous dictio-naries},
   hal = {https://hal.archives-ouvertes.fr/hal-02049486/file/icassp.pdf},
   pdf = {../../pdf/conferences/elvira2019icassp.pdf},
+  abstract = {In this work, we present new theoretical results on sparse recovery guarantees for a greedy algorithm, orthogonal matching pursuit (OMP), in the context of continuous parametric dictionaries, i.e., made up of an infinite uncountable number of atoms.We build up a family of dictionaries for which k-step recovery is possible with OMP for 1-dimensional parameters. In higher dimension, algebraic conditions become necessary and will lead us to revisit some well-known k-step discrete analyses. Finally, a toy-example illustrates the level of tightness of our sufficient conditions.},
 }
 
 
@@ -29,6 +30,7 @@
   YEAR = {2018},
   MONTH = {June},
   hal = {https://hal.inria.fr/hal-01937532},
+  abstract = {We present new theoretical results on sparse recovery guarantees for a greedy algorithm, orthogonal matching pursuit (OMP), in the context of continuous dictionaries. Consider a sparse linear combination of atoms from a dictionary parameterized by some real parameters, for example, a combination of shifted versions of a basic waveform as in the context of sparse spike deconvolution. Currently, performance guarantees for greedy algorithms are typically carried out in the discrete setting associated to a grid of atom parameters, and based on, e.g., the coherence of the considered discretized dictionary \cite\{tropp2004\}. However, such analyses fail to be conclusive for grid-based approaches when the discretization step tends to zero, as the coherence goes to one. Instead, our analysis is directly conducted in the continuous setting. For atoms parametrized by a real parameter that are elements of the (infinite-dimensional) Hilbert space $L_2(\mathbb\{R\})$ of square integrable real functions, and such that the inner product between two atoms is the exponential of the negative absolute difference of the corresponding parameters, we show in the noise-free setting that OMP exactly recovers the atom parameters as well as their amplitudes, regardless of the number of distinct atoms. We exhibit a convolutive dictionary of exponentially decaying pulses for which the atoms have an analytic definition while their pairwise inner products have the prescribed form. The established guarantees rely on a proof technique which is the continuous equivalent of Tropp’s Exact Recovery Condition (ERC) \cite\{tropp2004\}. The proof exploits specific properties of the positive definite kernel between atom parameters defined by the inner product between the corresponding atoms. Future work will aim at characterizing the class of kernels for which such an analysis holds –in particular for higher dimensional parameters– and the compatibility of the guarantees with dimension reduction techniques such as sketching, which would pave the way to provably good greedy algorithms for compressive statistical learning \cite\{Gribonval2017\}. In light of the existing links between Tropp’s ERC and recovery guarantees for $\ell_1$ minimization \cite\{tropp2006\}, an interesting question is whether these guarantees extend to sparse spike recovery with total variation norm minimization~\cite\{Duval2015,candes2014\}.}
 }
 
 
@@ -39,6 +41,8 @@
   year={2017},
   arxiv={1709.05667},
   hal = {https://hal.archives-ouvertes.fr/hal-01687236/},
+  abstract = {Principal component analysis (PCA) is very popular to perform dimension reduction. The selection of the number of significant components is essential but often based on some practical heuristics depending on the application. Only few works have proposed a probabilistic approach able to infer the number of significant components. To this purpose, this paper introduces a Bayesian nonparametric principal component analysis (BNP-PCA). The proposed model projects observations onto a random orthogonal basis which is assigned a prior distribution defined on the Stiefel manifold. The prior on factor scores involves an Indian buffet process to model the uncertainty related to the number of components. The parameters of interest as well as the nuisance parameters are finally inferred within a fully Bayesian framework via Monte Carlo sampling. A study of the (in-)consistence of the marginal maximum a posteriori estimator of the latent dimension is carried out. A new estimator of the subspace dimension is proposed. Moreover, for sake of statistical significance, a Kolmogorov-Smirnov test based on the posterior distribution of the principal components is used to refine this estimate.
+  The behaviour of the algorithm is first studied on various synthetic examples. Finally, the proposed BNP dimension reduction approach is shown to be easily yet efficiently coupled with clustering or latent factor models within a unique framework.},
 }
 
 @preprint{elvira2019preprint,
@@ -49,6 +53,7 @@
   arxiv = {1904.06311},
   hal = {https://hal.inria.fr/hal-02099464v3},
   graph = {../../pdf/graphs/elvira2019preprint.html},
+  abstract = {This paper presents new theoretical results on sparse recovery guarantees for a greedy algorithm, Orthogonal Matching Pursuit (OMP), in the context of continuous parametric dictionaries. Here, the continuous setting means that the dictionary is made up of an infinite (potentially uncountable) number of atoms. In this work, we rely on the Hilbert structure of the observation space to express our recovery results as a property of the kernel defined by the inner product between two atoms. Using a continuous extension of Tropp's Exact Recovery Condition, we identify two key notions of admissible kernel and admissible support that are sufficient to ensure exact recovery with OMP. We exhibit a family of admissible kernels relying on completely monotone functions for which admissibility holds for any support in the one-dimensional setting. For higher dimensional parameter spaces, an additional notion of axis admissibility is shown to be sufficient to ensure a form of delayed recovery. An additional algebraic condition involving a finite subset of (known) atoms further yields exact recovery guarantees. Finally, a coherence-based viewpoint on these results provides recovery guarantees in terms of a minimum separation assumption.}
 }
 
 
@@ -63,7 +68,8 @@
   month={June},
   pdf = {../../pdf/conferences/elvira2016ssp.pdf},
   code = {https://github.com/c-elvira/bayesian_antisparse_algorithm},
-  hal = {https://hal.archives-ouvertes.fr/hal-01433632}
+  hal = {https://hal.archives-ouvertes.fr/hal-01433632},
+  abstract={Bayesian nonparametric (BNP) is an appealing framework to infer the complexity of a model along with the parameters. To this aim, sampling or variational methods are often used for inference. However, these methods come with numerical disadvantages for large-scale data. An alternative approach is to relax the probabilistic model into a non-probabilistic formulation which yields a scalable algorithm. One limitation of BNP approaches can be the cost of Monte-Carlo sampling for inference. Small-variance asymptotic (SVA) approaches paves the way to much cheaper though approximate methods for inference by taking benefit from a fruitful interaction between Bayesian models and optimization algorithms. In brief, SVA lets the variance of the noise (or residual error) distribution tend to zero in the optimization problem corresponding to a MAP estimator with finite noise variance for instance. We propose such an SVA analysis of a BNP dictionary learning (DL) approach that automatically adapts the size of the dictionary or the subspace dimension in an efficient way. Numerical experiments illustrate the efficiency of the proposed method.},
 }
 
 @ARTICLE{elvira2017_TSP,
@@ -75,6 +81,7 @@
   number={7},
   pages={1660-1672},
   keywords={Bayes methods;Gaussian distribution;Markov processes;Monte Carlo methods;encoding;inverse problems;maximum likelihood estimation;mean square error methods;ℓ∞-norm penalty;Bayesian antisparse coding;Gaussian linear model;Markov chain Monte Carlo algorithm;antisparse regularization;image processing;inverse problem;log-posterior distribution;maximum a posteriori estimator;minimum mean square error estimator;posterior distribution;probability distribution;signal processing;sparse representation;standard Gibbs sampler;Approximation algorithms;Bayes methods;Encoding;Image coding;Monte Carlo methods;Signal processing algorithms;Standards;Democratic distribution;anti-sparse representation;proximal operator},
+  abstract={Sparse representations have proven their efficiency in solving a wide class of inverse problems encountered in signal and image processing. Conversely, enforcing the information to be spread uniformly over representation coefficients exhibits relevant properties in various applications such as robust encoding in digital communications. Antisparse regularization can be naturally expressed through an ℓ∞-norm penalty. This paper derives a probabilistic formulation of such representations. Anew probability distribution, referred to as the democratic prior, is first introduced. Its main properties as well as three random variate generators for this distribution are derived. Then this probability distribution is used as a prior to promote antisparsity in a Gaussian linear model, yielding a fully Bayesian formulation of antisparse coding. Two Markov chain Monte Carlo algorithms are proposed to generate samples according to the posterior distribution. The first one is a standard Gibbs sampler. The second one uses Metropolis-Hastings moves that exploit the proximity mapping of the log-posterior distribution. These samples are used to approximate maximum aposteriori and minimum mean square error estimators of both parameters and hyperparameters. Simulations on synthetic data illustrate the performances of the two proposed samplers, for both complete and over-complete dictionaries. All results are compared to the recent deterministic variational FITRA algorithm.}, 
   doi={10.1109/TSP.2016.2645543},
   ISSN={1053-587X},
   month={April},
@@ -95,6 +102,7 @@
   Year = {2017},
   pdf = {../../pdf/conferences/elvira2017iccasp.pdf},
   hal = {https://hal.archives-ouvertes.fr/hal-01687163},
+  abstract={Principal component analysis is a widely used technique to perform dimension reduction. However, selecting a finite number of significant components is essential and remains a crucial issue. Only few attempts have proposed a probabilistic approach to adaptively select this number. This paper introduces a Bayesian nonparametric model to jointly estimate the principal components and the corresponding intrinsic dimension. More precisely, the observations are projected onto a random orthogonal basis which is assigned a prior distribution defined on the Stiefel manifold. Then the factor scores take benefit of an Indian buffet process prior to model the uncertainty related to the number of components. The parameters of interest as well as the nuisance parameters are finally inferred within a fully Bayesian framework via Monte Carlo sampling. The performances of the proposed approach are assessed thanks to experiments conducted on various examples.},
 }
 
 @Inproceedings{elvira2017gretsi,
@@ -107,6 +115,7 @@
   pdf = {../../pdf/natConf/elvira2017gretsi.pdf},
   code = {https://github.com/c-elvira/bayesian_antisparse_algorithm},
   hal = {https://hal.archives-ouvertes.fr/hal-01691387},
+  abstract = {Dans un but de robustesse, un codage antiparcimonieux répartit uniformément l’information d’un signal sur toutes les composantes de sa représentation. La recherche d’un tel codage s’exprime naturellement sous la forme d’un problème variationnel impliquant une régularisation de type $\ell_\infty$. Dans cet article une formulation bayésienne du problème est proposée, impliquant une nouvelle loi de probabilité, la loi démocratique, qui pénalise les fortes amplitudes. Cette distribution est choisie comme loi a priori sur les coefficients de représentation, couplée avec une vraisemblance gaussienne. Les estimateurs bayésiens des coefficients de représentation peuvent être approchés à l’aide d’un échantillonneur de Gibbs. Cette méthode passe cependant difficilement à l’échelle et un algorithme de Monte Carlo proximal a été proposé. On discute une nouvelle façon de choisir et régler la loi a priori sur les paramètres de nuisance. Deux simulations numériques permettent de valider le réglage des hyperparamètres et la recherche du paramètre de régularisation.},
 }
 
 
@@ -146,4 +155,5 @@
   pdf = {../../pdf/conferences/elvira2018eusipco.pdf},
   code = {https://github.com/c-elvira/IBPDL-SVA},
   hal = {https://hal.archives-ouvertes.fr/hal-01961852},
+  abstract={Bayesian nonparametric (BNP) is an appealing framework to infer the complexity of a model along with the parameters. To this aim, sampling or variational methods are often used for inference. However, these methods come with numerical disadvantages for large-scale data. An alternative approach is to relax the probabilistic model into a non-probabilistic formulation which yields a scalable algorithm. One limitation of BNP approaches can be the cost of Monte-Carlo sampling for inference. Small-variance asymptotic (SVA) approaches paves the way to much cheaper though approximate methods for inference by taking benefit from a fruitful interaction between Bayesian models and optimization algorithms. In brief, SVA lets the variance of the noise (or residual error) distribution tend to zero in the optimization problem corresponding to a MAP estimator with finite noise variance for instance. We propose such an SVA analysis of a BNP dictionary learning (DL) approach that automatically adapts the size of the dictionary or the subspace dimension in an efficient way. Numerical experiments illustrate the efficiency of the proposed method.},
 }
