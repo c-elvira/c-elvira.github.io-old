@@ -16,8 +16,10 @@ news: true
 social: true
 ---
 
-I am currently a **postdoctoral researcher** at Inria Rennes - Bretagne atlantique and part of the [BECOSE](http://becose.univ-lorraine.fr/en/accueil/) project.
-I am working under the supervision of [Cédric Herzet](https://people.rennes.inria.fr/Cedric.Herzet/Cedric.Herzet/Main.html), [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/) and [Charles Soussen](http://w3.cran.univ-lorraine.fr/perso/charles.soussen/).<br>
+I am currently a **postdoctoral researcher** at Irisa - Université de Bretagne Sud and part of the [OATMIL](http://people.irisa.fr/Nicolas.Courty/OATMIL/) project.
+I am working under the supervision of [Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/) and [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/).<br>
 
-<br>
+Before joining UBS, I was a **postdoctoral researcher** at Inria Rennes - Bretagne atlantique and part of the [BECOSE](http://becose.univ-lorraine.fr/en/accueil/) project.
+I was working under the supervision of [Cédric Herzet](https://people.rennes.inria.fr/Cedric.Herzet/Cedric.Herzet/Main.html), [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/) and [Charles Soussen](http://webpages.lss.supelec.fr/charles.soussen/soussen_EN.html).<br>
+
 I was a PhD student from october, 2014 to november, 2017 at [CRIStAL](http://www.cristal.univ-lille.fr) in the beautiful city of Lille, France, under the supervision of [Pierre Chainais](http://pierrechainais.ec-lille.fr) and [Nicolas Dobigeon](http://dobigeon.perso.enseeiht.fr/index.html), and I was part of the [SigMA](http://www.cristal.univ-lille.fr/?rubrique27&eid=30) group at [CRIStAL](http://www.cristal.univ-lille.fr).
