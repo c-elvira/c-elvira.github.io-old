@@ -10,7 +10,11 @@ A pdf version is also available [in english](../pdf/cv_en.pdf) or in [in french]
 
 ### Positions
 
-- **2017 - now :** **Post-doctoral researcher** <br/>
+- **2019 - now :** **Post-doctoral researcher** <br/>
+OBELIX Research Group <br/>
+*Irisa, University of Bretagne-Sud (France)* <br/>
+
+- **2017 - 2019 :** **Post-doctoral researcher** <br/>
 PANAMA Research Group <br/>
 *Inria Rennes Bretagne Atlantique (France)* <br/>
 
@@ -46,17 +50,4 @@ Studying Automatic summarization based on linguistic features and machine learni
 Well detection using physical measures and machine learning techniques <br/>
 *Schlumberger, Montpellier (France)*
 
-### Skills
 
-#### Languages
-- French : native
-- English : fluent
-- Notions in spanish
-
-#### Modelling language
-- Matlab (mainly), Python (currently migrating)
-- R (leftover from master degree)
-
-### Miscellaneous
-- **Sports** : trail running (core activity), as well as swimming and cycling. Climbing during spare time...
-- **Culture** : Movies and reading
