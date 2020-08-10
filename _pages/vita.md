@@ -6,13 +6,17 @@ description: Curriculum vitae.
 ---
 
 
-A pdf version is also available [in english](../pdf/cv_en.pdf) or in [in french](../pdf/cv_fr.pdf).
+A (more detailed) pdf version is also available [in english (not up to date)](../pdf/cv_en.pdf) or in [in french](../pdf/cv_fr.pdf).
 
 ### Positions
 
+- **2020 - now :** **Maître de Conférences** (~ Assistant Professor)<br/>
+IETR, SCEE Research Group <br/>
+CentraleSupélec, (Rennes, France) <br/>
+
 - **2019 - now :** **Post-doctoral researcher** <br/>
-OBELIX Research Group <br/>
-*Irisa, University of Bretagne-Sud (France)* <br/>
+Irisa, OBELIX Research Group <br/>
+*University of Bretagne-Sud (France)* <br/>
 
 - **2017 - 2019 :** **Post-doctoral researcher** <br/>
 PANAMA Research Group <br/>

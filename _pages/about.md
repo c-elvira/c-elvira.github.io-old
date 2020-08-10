@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Clément</strong> Elvira
-description: <a href="">Affiliations:</a> Inria, PANAMA Research Group
+description: <a href="">Affiliations:</a> IETR, SCEE Research Group
 
 profile:
   align: right
@@ -16,7 +16,11 @@ news: true
 social: true
 ---
 
-I am currently a **postdoctoral researcher** at Irisa - Université de Bretagne Sud and part of the [OATMIL](http://people.irisa.fr/Nicolas.Courty/OATMIL/) project.
+I am a Maître de Conférences at [CentraleSupélec](http://www.rennes.centralesupelec.fr/) in Rennes, France. 
+It is a permanent teaching and research position roughly equivalent to Assistant Professor.
+I am with the [SSEE](http://www.rennes.supelec.fr/ren/rd/scee/) team of the [IETR](https://www.ietr.fr/) laboratory.
+
+Before joining Centrale Supelec, I was a **postdoctoral researcher** at Irisa - Université de Bretagne Sud and part of the [OATMIL](http://people.irisa.fr/Nicolas.Courty/OATMIL/) project.
 I am working under the supervision of [Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/) and [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/).<br>
 
 Before joining UBS, I was a **postdoctoral researcher** at Inria Rennes - Bretagne atlantique and part of the [BECOSE](http://becose.univ-lorraine.fr/en/accueil/) project.
