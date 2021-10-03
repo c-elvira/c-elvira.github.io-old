@@ -6,7 +6,7 @@ description: Curriculum vitae.
 ---
 
 
-A (more detailed) pdf version is also available [in english (not up to date)](../pdf/cv_en.pdf) or in [in french](../pdf/cv_fr.pdf).
+A (more detailed) pdf version is also available [in english (last update 2020)](../pdf/cv_en.pdf) or in [in french](../pdf/cv_fr.pdf) (last update june 2021).
 
 ### Positions
 
