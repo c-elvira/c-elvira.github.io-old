@@ -8,8 +8,8 @@ profile:
   align: right
   image: id_elvira_2015.jpg
   address: >
-    <p>Univ Rennes, Inria, CNRS, IRISA</p>
-    <p>Campus de Beaulieu, 35042 Rennes cedex</p>
+    <p>SCEE/IETR UMR CNRS 6164, CentraleSupélec</p>
+    <p>35510 Cesson Sévigné</p>
     <p>France</p>
 
 news: true
