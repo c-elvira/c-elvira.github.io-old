@@ -1,20 +1,43 @@
-Pierre Chainais:
-  url: http://pierrechainais.ec-lille.fr/
+"Chainais":
+  - firstname: ["Pierre", "P."]
+    url: http://pierrechainais.ec-lille.fr/
 
-Nicolas Dobigeon:
-  url: http://dobigeon.perso.enseeiht.fr/
+"Dobigeon":
+  - firstname: ["Nicolas", "N."]
+    url: http://dobigeon.perso.enseeiht.fr/
 
-Rémi Gribonval:
-  url: https://people.irisa.fr/Remi.Gribonval/
+"Gribonval":
+  - firstname: ["Rémi", "R."]
+    url: https://people.irisa.fr/Remi.Gribonval/
 
-Cédric Herzet:
-  url: https://people.rennes.inria.fr/Cedric.Herzet/Cedric.Herzet/Main.html
+"Herzet":
+  - firstname: ["Cédric", "C."]
+    url: https://people.rennes.inria.fr/Cedric.Herzet/Cedric.Herzet/Main.html
 
-Charles Soussen:
-  url: http://webpages.lss.supelec.fr/perso/charles.soussen/soussen_EN.html
+"Soussen":
+  - firstname: ["Charles", "C."]
+    url: http://webpages.lss.supelec.fr/perso/charles.soussen/soussen_EN.html
 
-Hong Phuong Dang:
-  url: http://www.hongphuong-dang.com/
+"Dang":
+  - firstname: ["Hong Phuong", "H. P.", "Hong-Phuong"]
+    url: http://www.hongphuong-dang.com/
 
-Théo Guyard:
-  url: https://theoguyard.github.io
+"Guyard":
+  - firstname: ["Théo", "T."]
+    url: https://theoguyard.github.io
+
+"Cohen":
+  - firstname: ["Jérémy", "Jérémy E.", "J. E."]
+    url: https://jeremy-e-cohen.jimdofree.com/
+
+"Di Carlo":
+  - firstname: ["Diego", "D."]
+    url: http://diegodicarlo.com/
+
+"Deleforge":
+  - firstname: ["Antoine", "A."]
+    url: https://members.loria.fr/ADeleforge/
+
+"Bertin":
+  - firstname: ["Nancy", "N."]
+    url: https://scholar.google.fr/citations?user=6BxpGj4AAAAJ&hl=fr
