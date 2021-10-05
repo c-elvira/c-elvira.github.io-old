@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Clément Elvira
-email: clement.elvira@inria.fr
+email: clement.elvira@centralesupelec.fr
 description: > # this means to ignore newlines until "url:"
   Personal webpage of Clément Elvira. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -12,7 +12,8 @@ footer_text: >
 
 url: # /celvira-webpage the base hostname & protocol for your site
 baseurl: # /celvira-webpage the subpath of your site, e.g. /blog/
-last_updated: # leave blank if you don't want to display last updated
+last_updated: October 2021
+# leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -20,13 +21,12 @@ last_updated: # leave blank if you don't want to display last updated
 github_username: c-elvira # your GitHub user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+scholar_userid: 2LSEQYcAAAAJ # your Google Scholar ID
+orcid_id:  0000-0001-5316-2191  # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: # Blank
 
 google_analytics: UA- # out your google-analytics code
 
