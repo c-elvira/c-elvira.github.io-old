@@ -5,9 +5,8 @@ title: publications
 description: Publications by categories in reversed  chronological order. (last update July 2021)
 ---
 
-#### Submitted/pipelined journal papers
+#### Preprint(s)
 {% bibliography --query @preprint %}
-
 
 #### International journal papers
 {% bibliography --query @article %}
