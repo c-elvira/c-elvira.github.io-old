@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications by categories in reversed  chronological order. (last update July 2021)
+description: Publications by categories in reversed  chronological order. (last update October 2021)
 ---
 
 #### Preprint(s)
