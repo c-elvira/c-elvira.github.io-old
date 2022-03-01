@@ -8,9 +8,10 @@ profile:
   align: right
   image: id_elvira_2015.jpg
   address: >
-    <p>SCEE/IETR UMR CNRS 6164, CentraleSupélec</p>
-    <p>35510 Cesson Sévigné</p>
-    <p>France</p>
+    <p>IETR UMR CNRS 6164</p>
+    <p>Signal groupe</p>
+    <p>CentraleSupélec, Rennes campus</p>
+    <p>35510 Cesson Sévigné, France</p>
 
 news: true
 social: true
