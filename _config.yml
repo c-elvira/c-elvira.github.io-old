@@ -12,7 +12,7 @@ footer_text: >
 
 url: # /celvira-webpage the base hostname & protocol for your site
 baseurl: # /celvira-webpage the subpath of your site, e.g. /blog/
-last_updated: October 2021
+last_updated: March 2022
 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
