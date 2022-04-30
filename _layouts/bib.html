@@ -66,6 +66,9 @@
   {% if entry.abstract %}
     [<a class="abstract">Abs</a>]
   {% endif %}
+  {% if entry.suppmat %}
+    [<a href="{{ entry.suppmat | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">supplementary material</a>]
+  {% endif %}
   {% if entry.doi %}
     [<a href="https://doi.org\{{ entry.doi }}" target="_blank">DOI</a>]
   {% endif %}
